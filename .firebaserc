@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lp-dim-app-vh": {
+      "hosting": {
+        "lp-dim-app": [
+          "lp-dim-app-vh"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lp-dim-app-vh"
+  }
+}
